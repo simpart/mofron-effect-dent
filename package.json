@@ -1,6 +1,6 @@
 {
   "name": "mofron-effect-dent",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mofron effect for component movement when clicked",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simpart/mofron-effect-dent.git"
+  },
+  "dependencies": {
+    "mofron-event-mouseup": "",
+    "mofron-event-mousedown": "",
+    "mofron-effect-shadow": ""
   },
   "keywords": [
     "front-end",

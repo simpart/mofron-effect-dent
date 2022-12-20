@@ -22,7 +22,7 @@ module.exports = class extends mofron.class.Effect {
     constructor (p1) {
         try {
             super();
-            this.modname("clkbutton");
+            this.modname("dent");
             this.shortForm("value");
             
 	    super.eid(-100);
