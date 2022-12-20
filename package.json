@@ -1,0 +1,23 @@
+{
+  "name": "mofron-effect-dent",
+  "version": "0.0.1",
+  "description": "mofron effect for component movement when clicked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-effect-dent.git"
+  },
+  "keywords": [
+    "front-end",
+    "mofron"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-effect-dent/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-effect-dent#readme"
+}
